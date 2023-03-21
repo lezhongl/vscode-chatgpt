@@ -68,6 +68,7 @@ export abstract class AChatGPTAPI {
      * Refreshes the current ChatGPT session.
      *
      * Useful for bypassing 403 errors when Cloudflare clearance tokens expire.
+     * May not be accessible in certain region.
      *
      * @returns Access credentials for the new session.
      * @throws An error if it fails.
