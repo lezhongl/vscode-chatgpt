@@ -6,13 +6,6 @@
 >
 > \*Downloaded by ~500,000 developers with more than 100 5 star ratings within 3 months of release
 
-## Forks and continuation of the original project
-
-> Feel free to contribute here.
-
-1. Continued by [ChatGPT - Genie AI](https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode)
-2. Forked by @Christopher-Hayes: [ChatGPT Reborn](https://marketplace.visualstudio.com/items?itemName=chris-hayes.chatgpt-reborn)
-
 ## Features
 
 - ➕ Use GPT-4, GPT-3.5, GPT3 or Codex models using your OpenAI API Key
