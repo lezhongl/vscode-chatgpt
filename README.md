@@ -6,10 +6,6 @@
 >
 > \*Downloaded by ~500,000 developers with more than 100 5 star ratings within 3 months of release
 
-#### Try out this extension on marketplace: [ChatGPT - Genie AI](https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode)
-
-The extension is stripped out of Browser capabilities and published as an integration point for community to continue utilizing GPT models in Sidebar conversations or responses in editor, favorites, personalization and more.
-
 ## Forks and continuation of the original project
 
 > Feel free to contribute here.
